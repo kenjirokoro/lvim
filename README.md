@@ -10,7 +10,7 @@
 
 ---
 
-This is the [lvim] confiuration for the most part of it for Java Development. 
+This is the [lvim] configuration for the most part of it for Java Development. 
 
 ## Showcase
 
