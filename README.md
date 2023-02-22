@@ -17,6 +17,11 @@ This is the [lvim] confiuration for the most part of it for Java Development.
 ![demo-workspace](https://user-images.githubusercontent.com/85745790/218309280-c2807ac0-79f9-483f-8f75-10932690502f.png)
 ![demo-ulterior-terminal](https://user-images.githubusercontent.com/85745790/218309286-04e3856e-3cf9-45ea-afa1-8e0c4b5aafff.png)
 
+## Contributors
+
+<a href="https://github.com/kenjirokoro/kenjirokoro/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=kenjirokoro/kenjirokoro" />
+</a>
 
 </div>
 
