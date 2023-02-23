@@ -15,6 +15,7 @@ This is the [lvim] configuration for the most part of it for Java Development.
 ## Showcase
 
 ![demo-workspace](https://user-images.githubusercontent.com/85745790/218309280-c2807ac0-79f9-483f-8f75-10932690502f.png)
+![demo-alacritty](https://user-images.githubusercontent.com/85745790/220943527-865df6d9-99c7-4dd7-b891-75cc9220db06.png)
 ![demo-ulterior-terminal](https://user-images.githubusercontent.com/85745790/218309286-04e3856e-3cf9-45ea-afa1-8e0c4b5aafff.png)
 
 ## Contributors
